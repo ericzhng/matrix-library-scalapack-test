@@ -1,0 +1,1 @@
+mpicxx    -rdynamic CMakeFiles/example.dir/main.cpp.o  -o example /home/ericzhng/software/scalapack/lib/libscalapack-eric.a /home/ericzhng/software/lapack/lib/liblapack-eric.a /home/ericzhng/software/blas/lib/libblas-eric.a 
