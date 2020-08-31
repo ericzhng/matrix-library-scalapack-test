@@ -1,3 +1,6 @@
+# Folders to neglect
+*/build
+
 # Prerequisites
 *.d
 

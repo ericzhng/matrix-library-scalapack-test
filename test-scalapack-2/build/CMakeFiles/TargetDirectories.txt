@@ -1,9 +1,0 @@
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/install/strip.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/install/local.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/install.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/package.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/package_source.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/example.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/edit_cache.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/1OpenCode/1BLAS_LAPACK/4tests/test-scalapack-2/build/CMakeFiles/list_install_components.dir
