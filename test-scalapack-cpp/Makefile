@@ -20,13 +20,11 @@ all : $(TARGETS)
 	@echo 
 	@echo Program Compiled Successfully!
 	@echo 
+	mpirun -np 4 ./exec/main matrix.txt 8 8 2 2
 
 $(TARGETS): $(SRC)
 	mkdir -p exec
 	$(CC) $(CC_FLAGS) -o $@ $(SRC) $(LIBS)
-
-run:
-	mpirun -np 4 exec/main matrix.txt 8 8 2 2
 
 clean :
 	rm -rf *.o $(TARGETS)
